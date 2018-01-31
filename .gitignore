@@ -783,3 +783,4 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+/examples.md
