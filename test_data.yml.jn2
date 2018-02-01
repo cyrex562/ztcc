@@ -1,0 +1,12 @@
+auth_token: {{ AUTH_TOKEN }}
+networks:
+  - {{ NETWORK_ID }}
+controllers:
+  - {{ CONTROLLER_MEMBER_ID }}
+members:
+  - {{ MEMBER_ID }}
+test_network_name: {{ TEST_NETWORK_NAME }}
+test_pools:
+  - {{ POOL_START_IP }}:{{ POOL_END_IP }}
+test_ips:
+  - {{ IP_ADDRESS }}
